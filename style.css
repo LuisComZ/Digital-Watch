@@ -65,6 +65,8 @@ body {
     padding: 20px 0px;
 
     display: flex;
+    align-items: center;
+    justify-content: center;
     flex-direction: column;
 
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);
@@ -75,6 +77,6 @@ body {
     width: 150px;
     margin: 5px 0;
 
-     box-shadow: 5px 1px 15px rgba(0, 0, 0, 0.7);
+    box-shadow: 5px 1px 15px rgba(0, 0, 0, 0.7);
   }
 }
